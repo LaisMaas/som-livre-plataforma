@@ -1,5 +1,5 @@
-## som-livre---plataforma
-Desenvolvimento de uma plataforma de musica em HTML, CSS e Java Script
+## Projeto Som Livre
+Desenvolvimento de uma plataforma de música em HTML, CSS e Java Script
 
 ### Sumário
 
@@ -18,7 +18,7 @@ Jequélia Santana - https://www.linkedin.com/in/jequelia-santana-680773173/
 
 <br/>
 
-### Layput protótipo
+### Layout protótipo
 
 https://xd.adobe.com/view/4ea5cc60-1ec4-45de-a193-4dbb1b109e45-1bf6/screen/4e1425b2-236a-41b7-96a8-795f019867df?fullscreen
 
@@ -37,7 +37,7 @@ https://xd.adobe.com/view/4ea5cc60-1ec4-45de-a193-4dbb1b109e45-1bf6/screen/4e142
 <br/>
 
 <p align="center">
-  <img src="https://github.com/LaisMaas/som-livre-plataforma/blob/main/som-music/assets/prototipo-img4.jpeg/>
+  <img src="https://github.com/LaisMaas/som-livre-plataforma/blob/main/som-music/assets/prototipo-img4.jpeg/">
 
 <br/>
 
