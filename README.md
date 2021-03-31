@@ -3,9 +3,9 @@ Desenvolvimento de uma plataforma de música em HTML, CSS e Java Script
 
 ### Sumário
 
-  - [Crédito protótipo](#credito-prototipo)
-  - [Layput protótipo](#layout-prototipo)
-  - [Projeto som livre](#projeto-som-livre )
+ - [Créditos do protótipo](#créditos-do-protótipo)
+ - [Layout protótipo](#layout-prototipo)
+ - [Projeto som livre](#projeto-som-livre )
  - [Requisitos do projeto](#requisitos-do-projeto)
  - [Status do projeto](#status-do-projeto)
 
