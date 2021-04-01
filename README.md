@@ -62,5 +62,5 @@ https://xd.adobe.com/view/4ea5cc60-1ec4-45de-a193-4dbb1b109e45-1bf6/screen/4e142
 
  🚧 Em construção ... 🚧 
  
- - Previsão de conclusão:  04/04/2021
+ - Previsão de conclusão:  15/04/2021 (Precisão alterada em virtude de novo projeto em status de prioridade)
 
